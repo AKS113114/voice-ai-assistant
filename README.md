@@ -4,6 +4,10 @@ An end-to-end voice AI assistant built using open-weight and locally running mod
 
 Developed as part of the **AI Internship Technical Assignment at Trikon Software Labs LLP**.
 
+## Demo Video
+
+[Watch the Offline Voice AI Assistant Demo on YouTube](https://youtu.be/mCw6qae3ees?si=PLjCESZVILs3nyad)
+
 ## Features
 
 - **Speech-to-Text (STT):** Uses Faster-Whisper to transcribe recorded speech.
