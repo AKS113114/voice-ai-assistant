@@ -3,9 +3,10 @@
 .venv/
 __pycache__/
 *.pyc
-response.wav
-tts_output.wav
 *.wav
+*.m4a
+voices/*.onnx
+voices/*.onnx.json
 
 
 
